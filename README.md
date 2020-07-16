@@ -1,37 +1,35 @@
 # Data's demographic:
-• Sex: male(2) or female(0) (Nominal)
+• Sex: male(1) or female(0) 
 
-• Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
+• Age: Age of the patient
 
-Behavioral
+• Current Smoker: whether or not the patient is a current smoker 
 
-• Current Smoker: whether or not the patient is a current smoker (Nominal)
-
-• Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
+• Cigs Per Day: the number of cigarettes that the person smoked on average in one day.
 
 Medical( history)
 
-• BP Meds: whether or not the patient was on blood pressure medication (Nominal)
+• BP Meds: whether or not the patient was on blood pressure medication 
 
-• Prevalent Stroke: whether or not the patient had previously had a stroke (Nominal)
+• Prevalent Stroke: whether or not the patient had previously had a stroke
 
-• Prevalent Hyp: whether or not the patient was hypertensive (Nominal)
+• Prevalent Hyp: whether or not the patient was hypertensive 
 
-• Diabetes: whether or not the patient had diabetes (Nominal)
+• Diabetes: whether or not the patient had diabetes 
 
 Medical(current)
 
-• Tot Chol: total cholesterol level (Continuous)
+• Tot Chol: total cholesterol level 
 
-• Sys BP: systolic blood pressure (Continuous)
+• Sys BP: systolic blood pressure 
 
-• Dia BP: diastolic blood pressure (Continuous)
+• Dia BP: diastolic blood pressure 
 
-• BMI: Body Mass Index (Continuous)
+• BMI: Body Mass Index 
 
-• Heart Rate: heart rate (Continuous - In medical research, variables such as heart rate though in fact discrete, yet are considered continuous because of large number of possible values.)
+• Heart Rate: heart rate 
 
-• Glucose: glucose level (Continuous) Predict variable (desired target)
+• Glucose: glucose level 
 
 • 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
 
