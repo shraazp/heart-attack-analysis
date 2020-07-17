@@ -43,4 +43,4 @@ algorithms used:
 
 Data source: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
 
-Reference:"Assignment during Online Internship with DLithe(www.dlithe.com)"
+Reference:Assignment during Online Internship with DLithe(www.dlithe.com)
