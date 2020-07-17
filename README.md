@@ -42,3 +42,4 @@ algorithms used:
 4. Random Forest(Scikit-learn)
 
 Data source: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
+Reference:"Assignment during Online Internship with DLithe(www.dlithe.com)"
