@@ -1,3 +1,5 @@
+# Heart attack analysis 
+The following  project is used to analyse the heart attack dataset using python scikit-learn. Then, different models were trained and and predictions are made with different algorithms KNN,Random Forest,SVM,Logistic Regression etc .
 # Data's demographic:
 • Sex: male(1) or female(0) 
 
@@ -33,4 +35,9 @@ Medical(current)
 
 • 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
 
+algorithms used:
+1. logistic regresion(Scikit-learn)
+2. K-Nearest Neighbours (Scikit-learn)
+3. Support Vector Machine (Linear) (Scikit-learn)
+4. Random Forest(Scikit-learn)
 Data source: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
