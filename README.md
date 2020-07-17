@@ -40,4 +40,5 @@ algorithms used:
 2. K-Nearest Neighbours (Scikit-learn)
 3. Support Vector Machine (Linear) (Scikit-learn)
 4. Random Forest(Scikit-learn)
+
 Data source: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
